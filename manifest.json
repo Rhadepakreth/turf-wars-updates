@@ -1,7 +1,7 @@
 {
-  "version": "0.9.10-beta",
+  "version": "0.9.11-beta",
   "min_base_version": "0.9.0-beta",
-  "patch_url": "https://raw.githubusercontent.com/Rhadepakreth/turf-wars-updates/main/patch_0.9.10-beta.pck",
-  "sha256": "af95bfd46844df22924f7ba31425aa23c39e9ccf2e7c3c54ff56a30499442563",
-  "size_bytes": 195860
+  "patch_url": "https://raw.githubusercontent.com/Rhadepakreth/turf-wars-updates/main/patch_0.9.11-beta.pck",
+  "sha256": "ffadae702421361e8eac3cc9e64bc2983f7dcc79b37b7aa09367fc16a52a3f81",
+  "size_bytes": 195828
 }
